@@ -14,6 +14,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<h2>Инструкция по установке</h2>
 ```
 Клонируем репозиторий:
 git clone https://github.com/AlexandrGer/russian-travel.git
