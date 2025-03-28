@@ -26,7 +26,7 @@
 
 ### Скриншоты разных вариантов адаптивности сайта
 
-![Image alt] 
+![Image alt] (https://github.com/AlexandrGer/russian-travel/blob/main/images/1280.jpg)
 ![Image alt]
 ![Image alt]
 ![Image alt]
