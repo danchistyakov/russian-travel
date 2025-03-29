@@ -6,7 +6,7 @@
 
  **Ссылка на проект**
 
- * [Путешествие по России] (https://alexandrger.github.io/russian-travel/)
+ * https://alexandrger.github.io/russian-travel/
 
 ### Примененные технологии в проекте
 
@@ -22,14 +22,6 @@
 ### Figma
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-
-### Скриншоты разных вариантов адаптивности сайта
-
-![Image alt] (https://github.com/AlexandrGer/russian-travel/blob/main/images/1280.jpg)
-![Image alt]
-![Image alt]
-![Image alt]
 
 ### Планы по доработке
 
