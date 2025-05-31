@@ -33,9 +33,9 @@
 ## Скриншот:
 <details><summary><b>Развернуть</b></summary>
 
-[![russian-travel](https://user-images.githubusercontent.com/86494748/143667338-974fe2ab-8903-43cb-8d60-e9e0778cd19c.jpg)](https://ia-stepanov.github.io/russian-travel/)
+[![russian-travel](https://user-images.githubusercontent.com/86494748/143667338-974fe2ab-8903-43cb-8d60-e9e0778cd19c.jpg)](https://danchistyakov.github.io/russian-travel/)
 
 </details>
 
 ## Ссылка на сайт:
-https://ia-stepanov.github.io/russian-travel/
+https://danchistyakov.github.io/russian-travel/
